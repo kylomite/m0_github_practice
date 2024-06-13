@@ -10,3 +10,4 @@
 ## Directions
 
 Answer the questions in the `github_notes.md` file.
+Additional insightful comment
